@@ -1,4 +1,4 @@
-# CG assignment 1
+# Maze Runner
 ## Controls
 <kbd>up</kbd> move down
 
